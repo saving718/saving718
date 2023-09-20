@@ -1,5 +1,7 @@
-<h1 align="center">Hello, i'm Nikita</a> 
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+developer" alt="Typing" />
+<div><h1 align="center">Hello, i'm Nikita</a></div>
+<div>
+    <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+developer" alt="Typing" />
+</div>
 
 <picture>Q
     <source
