@@ -1,4 +1,4 @@
-<h1 align="center">Hello, i'm Nikita</a> 
+<h1 align="center">Hello, i'm Nikita</a> <br>
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Frontend+developer" alt="Typing" />
 
 <picture>
